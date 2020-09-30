@@ -1,0 +1,38 @@
+input {
+  color: blue;
+  width:60px;
+  height:auto;
+  font-style: italic;
+  border-style: dotted;
+  border: 1px solid black
+}
+
+#labe {
+  color: red;
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+.center {  
+  text-align: center;
+  color: red;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1 {
+  border: 5px solid red;
+  display: inline;
+}
+
+h2 {
+  border: 4px dotted blue;
+  display: inline;
+}
+
